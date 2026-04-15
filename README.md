@@ -8,3 +8,6 @@ Usernames: Max 5 chars, must include an underscore (_).
 Passwords: 8+ chars, with at least one capital letter, number, and special character.
 Phone: South African format (+27).
 JUnit 5 suite to check everything works right.
+
+Video is in arc, It is in a raw video file.
+(Download The Video In Order To Watch it, I didn’t upload it on YT)
