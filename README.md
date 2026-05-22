@@ -1,13 +1,13 @@
-# Summative-1-Portfolio-of-Evidence
+# Registration
+Login and Registration System
 
-username, password, and phone number.
+Overview
+A Java console application for secure user management, featuring strict input validation and unit testing.
 
-https://github.com/ST10490988/Summative-1-Portfolio-of-Evidence.git
-
-Usernames: Max 5 chars, must include an underscore (_).
-Passwords: 8+ chars, with at least one capital letter, number, and special character.
-Phone: South African format (+27).
-JUnit 5 suite to check everything works right.
-
-Video is in arc, It is in a raw video file.
-(Download The Video In Order To Watch it, I didn’t upload it on YT)
+Features
+User Registration: Collects names, usernames, passwords, and phone numbers.
+Input Validation: Usernames must contain an underscore (`_`) and be no more than 5 characters.
+    Passwords must be at least 8 characters long and contain a capital letter, a      number, and a special character.
+    Phone numbers must follow the South African international format (`+27`).
+Secure Login: Verifies credentials against stored user data.
+Unit Testing: Includes a JUnit 5 test suite to verify all logic components.
